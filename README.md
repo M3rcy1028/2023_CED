@@ -11,7 +11,7 @@
     ├── Radix2_Booth                  # radix-2 Booth Multiplier
     ├── Shifter_Counter_RegisterFile  # 8-bit controller/counter w/ RF
     ├── TermProject                   # 32-bit Factorial operation
-    ├── Traffic_Light_Controller      # TLC w/ & w.o left
+    ├── Traffic_Light_Controller      # TLC w/ & w/o left
     └── README.md
 
 Kwangwoon University 2023.
